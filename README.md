@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the UVIC Libraries GitHub Workshop Page
+
+We're just in the process of migrating our workshops over to GitHub, so for a current list of workshops, please visit our website: [https://onlineacademiccommunity.uvic.ca/dsc/workshops/](https://onlineacademiccommunity.uvic.ca/dsc/workshops/). 
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/uviclibraries/workshops/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
